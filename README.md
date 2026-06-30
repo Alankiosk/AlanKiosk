@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">ALAN</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-STUDENT-000000?style=for-the-badge&labelColor=000000" />
+</p>
 
-<!--
-**Alankiosk/AlanKiosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><i>"Quietly building. Loudly improving."</i></p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<br>
+
+<h3 align="center">THE STORY SO FAR</h3>
+
+<p align="center">
+I'm a student at the very start of a journey into technology.<br>
+No exaggerated titles. No borrowed credibility.<br>
+Just consistent, honest progress — documented as it happens.
+</p>
+
+<br>
+
+<h3 align="center">WHAT'S NEXT</h3>
+
+<p align="center">
+This space will grow with me — every skill earned,<br>
+every project built, every milestone real.
+</p>
+
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<br>
+
+<p align="center"><b>Watch this space.</b></p>
